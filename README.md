@@ -50,6 +50,19 @@ Material y equipo requerido
 
 - 1 Protoboard
 
+1.	Bosquejamos el circuito a resolver en la práctica
+
+
+
+2. Hacemos el circuito a resolver en el simulador correspondiente.
+
+
+3. Como observamos el circuito tiene 2 fuentes de voltajes por lo cual aplicaremos la teoria de superposición , por esta razon haremos un corto circuito en el voltaje de 12V lo cual nos quedaria un circuito de la siguiente manera.
+
+
+4. Una vez realizado esto procedemos a observar que la  R=820 Ω ∧R=470 Ω  están en serie por lo cual procedemos a sumarlas
+
+
 
 
 
