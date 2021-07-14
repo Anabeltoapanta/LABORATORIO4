@@ -28,9 +28,6 @@ Una fuente de corriente se hace cero al remplazarla con un circuito abierto, a t
 La superposición solo puede utilizarse cuando las funciones de control son externas al circuito
 (Edimenister, 1999)
 
-
-
-
 **3.EXPLICACIÓN DEL PROCEDIMIENTO**
 
 Material y equipo requerido
@@ -66,3 +63,6 @@ Material y equipo requerido
 
 
 **6.BIBLIOGRAFÍA**
+
+allan h. robins,  wilhelm c. mille. (2013). Analisis De Circuitos (Vol. 1).
+Edimenister, J. A. (Profesor E. de ingiería E. de la universidad de A. (1999). Circuitos eléctricos_3a  edición
