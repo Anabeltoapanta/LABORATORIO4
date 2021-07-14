@@ -26,6 +26,14 @@ Objetivos Especificos
 
 Material y equipo requerido
 
+2 Fuentes de voltaje de C.D
+2 Multímetros digitales
+1 resistor de 1kiloohm
+1 resistor de 2.2 kilo ohmios
+1 resistor de 820 ohmios
+1 resistor de 470 ohmios
+1 Protoboard
+
 
 
 
