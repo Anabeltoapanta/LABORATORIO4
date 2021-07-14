@@ -56,28 +56,91 @@ Material y equipo requerido
 
 - 1 Protoboard
 
-1.	Bosquejamos el circuito a resolver en la 
+**Procedimiento**
 
- ![](https://github.com/Anabeltoapanta/LABORATORIO4/blob/main/Circuito%204.1.png)
+Para nuestra practica necesitamos saber previamente dicho teorema que nos dice que 
+el voltaje o corriente a través de cualquier elemento del circuito puede obtenerse 
+sumando algebraicamente todos los voltajes o corrientes generados por cada fuente 
+actuando por si sola, con todas las demás fuentes igualadas a cero. Este concepto 
+dependerá si tenemos fuentes de voltaje o fuentes de intensidad.
 
-2. Hacemos el circuito a resolver en el simulador correspondiente.
+En este caso como tenemos fuentes de voltaje estas igualadas a cero equivalen a un 
+corto circuito. 
 
-![](https://github.com/Anabeltoapanta/LABORATORIO4/blob/main/CIRCUITO%201.1.png)
+Como primer parámetro necesitamos realizar un diagrama esquemático como lo vemos a 
+continuación
 
-3. Como observamos el circuito tiene 2 fuentes de voltajes por lo cual aplicaremos la teoria de superposición , por esta razon haremos un corto circuito en el voltaje de 12V lo cual nos quedaria un circuito de la siguiente manera.
+Para ello los pasos que seguiremos son los siguientes:
 
-![](https://github.com/Anabeltoapanta/LABORATORIO4/blob/main/C1.4.bmp)
+1)	Procederemos a simular el circuito en Tinkercad de la siguiente manera 
 
-4. Una vez realizado esto procedemos a observar que la  R=820 Ω ∧R=470 Ω  están en serie por lo cual procedemos a sumarlas
+ ![image](https://user-images.githubusercontent.com/85134094/125635653-fe698c7f-a548-48a9-9335-bd082ade6f25.png)
 
-![](https://github.com/Anabeltoapanta/LABORATORIO4/blob/main/C1.1.png)
+2)	Vamos a empezar igualando la fuente de voltaje de 20 Voltios a cero, esto 
+quiere decir que estará en cortocircuito como se muestra a continuación.
 
+![image](https://user-images.githubusercontent.com/85134094/125635710-e16215d9-0328-4b70-b0e8-2760a04a3e23.png)
 
+3)	A continuación, procedemos con la medición del voltaje de la resistencia de 
+820ohm y la intensidad que pasa por la resistencia de 470 ohm
 
+![image](https://user-images.githubusercontent.com/85134094/125635805-b95a39ec-b584-47d1-92a4-24e9705d01ab.png)
+
+Como podemos observar nos va a marcas un voltaje y una intensidad con referencia a la única fuente de voltaje conectada
+
+4)	A continuación, procedemos a igualar la fuente de voltaje de 12 Voltios a cero, esto quiere decir que estará en cortocircuito como se muestra a continuación 
+
+![image](https://user-images.githubusercontent.com/85134094/125635885-f012a18d-983a-4cce-85b9-f994dd8f051b.png)
+
+5)	A continuación, procedemos con la medición del voltaje de la resistencia de 820ohm y la intensidad que pasa por la resistencia de 470 ohm
+
+![image](https://user-images.githubusercontent.com/85134094/125635915-95b535b0-9c5f-41df-9925-20d12c64bc51.png)
+
+Como podemos observar nos va a marcas un voltaje y una intensidad con referencia a la única fuente de voltaje conectada
+
+6)	Y Finalmente procedemos con la medición del voltaje de la resistencia de 
+820ohm y la intensidad que pasa por la resistencia de 470 ohm con ambas fuentes de 
+voltaje conectadas
+
+![image](https://user-images.githubusercontent.com/85134094/125635989-585bd532-6f8d-4454-a4d8-e2c5a4cc3111.png)
 
 **4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
+A continuación, procederemos a realizar los cálculos para demostrar que los datos medidos anteriormente en la practica sean los correctos. 
 
+Para ello nos ayudaremos de la ley de ohm para realizar los cálculos de las resistencia, intensidad y voltaje total como se muestra a continuación
+
+Para V1=0
+
+![image](https://user-images.githubusercontent.com/85134094/125636064-12d2de18-d36b-4e10-816b-fedadf8e9d5f.png)
+
+![image](https://user-images.githubusercontent.com/85134094/125636092-2a6f40b4-2038-4e11-80cb-07b1c154134f.png)
+
+![image](https://user-images.githubusercontent.com/85134094/125636112-253ea8c6-833f-4138-852c-4c617be176a1.png)
+
+
+Para V2=0
+
+![image](https://user-images.githubusercontent.com/85134094/125636146-ef2cc837-aaae-4c91-8441-2e3e9371ffcf.png)
+
+![image](https://user-images.githubusercontent.com/85134094/125636177-bd88745b-1b29-4e4f-b6bf-decbe69d38b9.png)
+
+![image](https://user-images.githubusercontent.com/85134094/125636196-49d5c2da-26c0-44ee-93b8-c5d8ebcc341b.png)
+
+Para cumplir con el teorema de superposición se debe sumar dichos voltajes 
+
+Para el V3
+
+![image](https://user-images.githubusercontent.com/85134094/125636427-41629b41-03d4-402a-b8c5-1bb545a0b38d.png)
+
+Para la I4 
+Para el calculo de la intensidad 4 se toma solamente el voltaje de la segunda fuente por lo que esta conectado directamente a la resistencia 4 por lo que nos queda como resultado 
+
+![image](https://user-images.githubusercontent.com/85134094/125636463-3c3ca1fe-43c6-4381-a259-01044c369806.png)
+
+Como resultado nos queda las siguientes tablas:
+
+![image](https://user-images.githubusercontent.com/85134094/125636533-811b8ec3-fc9e-47f1-bb6d-2da90e83376c.png)
 
 
 **5.VIDEO**
