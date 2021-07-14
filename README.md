@@ -65,4 +65,5 @@ Material y equipo requerido
 **6.BIBLIOGRAFÍA**
 
 allan h. robins,  wilhelm c. mille. (2013). Analisis De Circuitos (Vol. 1).
+
 Edimenister, J. A. (Profesor E. de ingiería E. de la universidad de A. (1999). Circuitos eléctricos_3a  edición
