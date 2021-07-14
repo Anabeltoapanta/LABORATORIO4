@@ -116,8 +116,7 @@ Para V1=0
 
 ![image](https://user-images.githubusercontent.com/85134094/125636092-2a6f40b4-2038-4e11-80cb-07b1c154134f.png)
 
-![image](https://user-images.githubusercontent.com/85134094/125636112-253ea8c6-833f-4138-852c-4c617be176a1.png)
-
+![image](https://user-images.githubusercontent.com/85134094/125642424-5d168b8e-a9eb-432c-8203-85f2220d10c3.png)
 
 Para V2=0
 
