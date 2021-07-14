@@ -56,6 +56,7 @@ Material y equipo requerido
 
 2. Hacemos el circuito a resolver en el simulador correspondiente.
 
+![](https://github.com/Anabeltoapanta/LABORATORIO4/blob/main/CIRCUITO%201.1.png)
 
 3. Como observamos el circuito tiene 2 fuentes de voltajes por lo cual aplicaremos la teoria de superposición , por esta razon haremos un corto circuito en el voltaje de 12V lo cual nos quedaria un circuito de la siguiente manera.
 
