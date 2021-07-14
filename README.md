@@ -148,6 +148,9 @@ https://youtu.be/E5_X9gLqero
 
 **5. CONCLUSIONES**
 
+Como pudimos observar es importante tener en cuenta En conclusión, podemos observar que al implementar el teorema de superposición nos permite simplificar circuitos complejos y obtener las incógnitas que se nos presenta de una manera mas ordenada y sencilla que otros métodos de resolución estudiados hasta el momento; siempre y cuando tomemos de manera correcta el sentido en el que circula la corriente.
+
+En conclusión, podemos observar que al implementar el teorema de superposición nos permite simplificar circuitos complejos y obtener las incógnitas que se nos presenta de una manera mas ordenada y sencilla que otros métodos de resolución estudiados hasta el momento; siempre y cuando tomemos de manera correcta el sentido en el que circula la corriente.
 
 
 **6.BIBLIOGRAFÍA**
