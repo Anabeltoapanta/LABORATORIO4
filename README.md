@@ -60,9 +60,10 @@ Material y equipo requerido
 
 3. Como observamos el circuito tiene 2 fuentes de voltajes por lo cual aplicaremos la teoria de superposición , por esta razon haremos un corto circuito en el voltaje de 12V lo cual nos quedaria un circuito de la siguiente manera.
 
+![](https://github.com/Anabeltoapanta/LABORATORIO4/blob/main/C1.4.bmp)
+
 
 4. Una vez realizado esto procedemos a observar que la  R=820 Ω ∧R=470 Ω  están en serie por lo cual procedemos a sumarlas
-
 
 
 
