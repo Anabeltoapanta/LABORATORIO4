@@ -28,6 +28,8 @@ Una fuente de corriente se hace cero al remplazarla con un circuito abierto, a t
 La superposición solo puede utilizarse cuando las funciones de control son externas al circuito
 (Edimenister, 1999)
 
+![](https://github.com/Anabeltoapanta/LABORATORIO4/blob/main/IMG-20210714-WA0002.jpg)
+
 **3.EXPLICACIÓN DEL PROCEDIMIENTO**
 
 Material y equipo requerido
