@@ -52,8 +52,7 @@ Material y equipo requerido
 
 1.	Bosquejamos el circuito a resolver en la 
 
- ![](
-https://github.com/Anabeltoapanta/LABORATORIO4/blob/main/Circuito%204.1.png
+ ![](https://github.com/Anabeltoapanta/LABORATORIO4/blob/main/Circuito%204.1.png)
 
 2. Hacemos el circuito a resolver en el simulador correspondiente.
 
