@@ -24,11 +24,13 @@ Teorema de superposición:
 Es un método que permite determinar la corriente o voltaje en cualquier resistor en una red, una de las ventajas de este método es que no requiere usar matrices o determinantes para estudiar el circuito, el teorema determina que: “La corriente total o el voltaje en un resistor o una rama puede determinarse mediante la suma de los efectos debidos a cada fuente independiente.” (allan h. robins, 2013); Para utilizar este teorema es necesario eliminar todas las fuentes de voltaje, a excepción de la que se esta analizando, se dice que para poner en cero las fuentes de voltaje se debe remplazar por un cortocircuito.
 Una fuente de corriente se hace cero al remplazarla con un circuito abierto, a través del cual la corriente es cero amperios, para lo cual se determina que la potencia disipada por cualquier resistor, primero se debe encontrar el voltaje o la corriente del resistor.
 
+![](https://github.com/Anabeltoapanta/LABORATORIO4/blob/main/Teorema%20de%20superposici%C3%B3n_page-0001.jpg)
                                                                                                    
 La superposición solo puede utilizarse cuando las funciones de control son externas al circuito
 (Edimenister, 1999)
 
-![](https://github.com/Anabeltoapanta/LABORATORIO4/blob/main/IMG-20210714-WA0002.jpg)
+![](https://github.com/Anabeltoapanta/LABORATORIO4/blob/main/Teorema%20de%20superposici%C3%B3n_page-0001.jpg)
+                                             
 
 **3.EXPLICACIÓN DEL PROCEDIMIENTO**
 
