@@ -24,6 +24,10 @@ Objetivos Especificos
 
 **3.EXPLICACIÓN DEL PROCEDIMIENTO**
 
+Material y equipo requerido
+
+
+
 
 
 **4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
