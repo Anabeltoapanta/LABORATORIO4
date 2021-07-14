@@ -62,7 +62,7 @@ Material y equipo requerido
 
 4. Una vez realizado esto procedemos a observar que la  R=820 Ω ∧R=470 Ω  están en serie por lo cual procedemos a sumarlas
 
-
+![](https://github.com/Anabeltoapanta/LABORATORIO4/blob/main/PASO%204.png)
 
 
 
