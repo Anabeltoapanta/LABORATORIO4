@@ -4,6 +4,8 @@ AUTORES: MEJIA CESAR-MONTALVO STEVE - TOAPANTA ANABEM
 
 **1 . OBJETIVOS**
 
+Objetivo General
+
 * Comprobar el teorema de superposiciones de forma experimental mediante la resolución de un circuito y su respectiva simulación.
 
 Objetivos Especificos
