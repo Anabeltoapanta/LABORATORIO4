@@ -116,31 +116,28 @@ Para V1=0
 
 ![image](https://user-images.githubusercontent.com/85134094/125636092-2a6f40b4-2038-4e11-80cb-07b1c154134f.png)
 
-![image](https://user-images.githubusercontent.com/85134094/125642424-5d168b8e-a9eb-432c-8203-85f2220d10c3.png)
+![image](https://user-images.githubusercontent.com/85134094/125658761-63c362b9-44ce-42df-8bea-492b2165cbb0.png)
+
+El signo negativo se debe a que la resistencia R3 esta polarizada, con el positivo hacia la izquierda y el negativo hacia la derecha esto hace que exista una caída de voltaje por lo tanto se lo coloca con signo negativo.
 
 Para V2=0
 
-![image](https://user-images.githubusercontent.com/85134094/125636146-ef2cc837-aaae-4c91-8441-2e3e9371ffcf.png)
+![image](https://user-images.githubusercontent.com/85134094/125658793-6a4597d3-315b-4ab7-85ef-c351554208a0.png)
 
-![image](https://user-images.githubusercontent.com/85134094/125636177-bd88745b-1b29-4e4f-b6bf-decbe69d38b9.png)
+![image](https://user-images.githubusercontent.com/85134094/125658810-76a9591c-26b6-446a-a29d-f0d1fbc9700b.png)
 
-![image](https://user-images.githubusercontent.com/85134094/125636196-49d5c2da-26c0-44ee-93b8-c5d8ebcc341b.png)
+Para comprobar el teorema de superposición que nos dice que la intensidad y el voltaje que pasan por un elemento es igual a la suma de todas las intensidades y voltajes respectivamente, que pasan por dicho elemento, con este principio nos queda de la siguiente manera.
+Para el voltaje en la resistencia 3 sumamos los voltajes que estén presentes en este elemento, y de la siguiente manera
 
-Para cumplir con el teorema de superposición se debe sumar dichos voltajes 
+![image](https://user-images.githubusercontent.com/85134094/125658827-6e2499c4-ab7c-4845-b564-d35a8abc847b.png)
 
-Para el V3
+Para la Intensidad en la resistencia 4 tenemos dos intensidades diferentes por lo cual estas se suman:
 
-![image](https://user-images.githubusercontent.com/85134094/125636427-41629b41-03d4-402a-b8c5-1bb545a0b38d.png)
+![image](https://user-images.githubusercontent.com/85134094/125658851-59dcc6e0-696a-4c11-83f5-1efee7a763ff.png)
 
-Para la I4 
-Para el calculo de la intensidad 4 se toma solamente el voltaje de la segunda fuente por lo que esta conectado directamente a la resistencia 4 por lo que nos queda como resultado 
+Como resultado nos queda la siguiente tabla:
 
-![image](https://user-images.githubusercontent.com/85134094/125636463-3c3ca1fe-43c6-4381-a259-01044c369806.png)
-
-Como resultado nos queda las siguientes tablas:
-
-![image](https://user-images.githubusercontent.com/85134094/125636533-811b8ec3-fc9e-47f1-bb6d-2da90e83376c.png)
-
+![image](https://user-images.githubusercontent.com/85134094/125658880-d9e2630d-96a3-43d5-9658-bbf5d2284f0d.png)
 
 **5.VIDEO**
 
@@ -148,10 +145,9 @@ https://youtu.be/E5_X9gLqero
 
 **5. CONCLUSIONES**
 
-Como pudimos observar es importante tener en cuenta En conclusión, podemos observar que al implementar el teorema de superposición nos permite simplificar circuitos complejos y obtener las incógnitas que se nos presenta de una manera mas ordenada y sencilla que otros métodos de resolución estudiados hasta el momento; siempre y cuando tomemos de manera correcta el sentido en el que circula la corriente.
-
 En conclusión, podemos observar que al implementar el teorema de superposición nos permite simplificar circuitos complejos y obtener las incógnitas que se nos presenta de una manera mas ordenada y sencilla que otros métodos de resolución estudiados hasta el momento; siempre y cuando tomemos de manera correcta el sentido en el que circula la corriente.
 
+Como pudimos observar al hacerle un corto en la fuente de voltaje 2 obtenemos una resistencia igual a cero, por lo cual tenemos que tener cuidado al resolver circuitos de este tipo ya que podriamos tener problemas al tratar de sacar las resistencias equivalentes
 
 **6.BIBLIOGRAFÍA**
 
