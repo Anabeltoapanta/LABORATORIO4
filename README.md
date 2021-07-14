@@ -34,6 +34,12 @@ La superposición solo puede utilizarse cuando las funciones de control son exte
 
 **3.EXPLICACIÓN DEL PROCEDIMIENTO**
 
+Según lo planteado anteriormente el análisis de del circuito aplicando el Teorema 
+de Superposición nos va a simplificar los cálculos de circuitos mixtos en donde 
+involucren más de dos fuentes de voltaje o intensidad en este caso tenemos dos 
+fuentes de voltaje que las analizaremos por separado.
+Para ello vamos a necesitar materiales y herramientas que son las siguientes
+
 Material y equipo requerido
 
 - 2 Fuentes de voltaje de C.D
